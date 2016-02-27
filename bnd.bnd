@@ -1,0 +1,4 @@
+-exportcontents: de.kappich.tools.sleep.*
+-sources: true
+
+Bundle-Name: de.kappich.tools.sleep

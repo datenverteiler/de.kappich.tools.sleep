@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/datenverteiler/de.kappich.tools.sleep.svg?branch=master)](https://travis-ci.org/datenverteiler/de.kappich.tools.sleep)
-[![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.kappich.tools.sleep/images/download.svg)](https://bintray.com/datenverteiler/maven/de.kappich.tools.sleep)
+[![Build Status](https://travis-ci.org/bitctrl/de.kappich.tools.sleep.svg?branch=master)](https://travis-ci.org/bitctrl/de.kappich.tools.sleep)
+[![Build Status](https://api.bintray.com/packages/bitctrl/maven/de.kappich.tools.sleep/images/download.svg)](https://bintray.com/bitctrl/maven/de.kappich.tools.sleep)
 
 de.kappich.tools.sleep v${project.version}
 =============================
